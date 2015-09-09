@@ -20,6 +20,7 @@ accessible in your application as opposed to using Google Analytics and pulling
 data using their API.  You can attach custom messages to impressions.  No
 reporting yet.. this thingy just creates the data.
 
+
 What about bots?
 ----------------
 They are ignored.  1200 known bots have been added to the ignore list as of
