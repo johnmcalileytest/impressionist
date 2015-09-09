@@ -65,7 +65,7 @@ The following fields are provided in the migration:
 Usage
 -----
 
-1. Log all actions in a controller
+1. Log all actions in controller
 
         WidgetsController < ApplicationController
           impressionist
